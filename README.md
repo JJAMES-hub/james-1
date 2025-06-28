@@ -1,40 +1,61 @@
-# james-1# Hi there, I'm [JMAES AMBALA]! 👋
-
-![Banner Image](https://photos.app.goo.gl/sPPGi7jN7RyRKrmy6)
-
-## About Me 🚀
-
-I'm a passionate **[front end developer / Developer Role]** with experience in **[javascript ]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[english and kiswahili]**
-- 📫 How to reach me: **[eamil ambalajames 729@gmail.com]**
-- ⚡ Fun fact: **[a an actuall 18 and already understand most computer languages]**
-
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [equihealth](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[its about finding medical care easily at the comfort of your home]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 
-## Get in Touch 📬
+<h1 align="center">👋 Hi, I'm James Ambala</h1>
+<h3 align="center">💻 Front-End Developer | Entry-Level Engineer | ALX Learner | Passionate About Real-World Solutions</h3>
 
-- **[james ambala]**
-- **[www.linkedin.com/in/james-ambala-a197a7365]**
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/james-ambala-a197a7365/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn profile" />
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
+👨🏽‍💻 I’m an 18-year-old **Front-End Web Developer** in training at <strong>ALX Africa</strong>, equipped with a strong grasp of **HTML, CSS, JavaScript, React, Git**, and many more.
+
+🧠 I already know most of the core web technologies and continue sharpening my skills daily.
+
+🎓 As an entry-level developer, I’m actively seeking opportunities where I can contribute, learn fast, and grow within high-impact teams.
+
+🌟 **Why I started this journey:**  
+I got into software engineering because I believe in the power of code to **solve real-world problems**, especially in underserved communities.
+
+💡 **What inspires me:**  
+Designing elegant, user-first digital experiences that actually make lives easier.
+
+🎯 **My Vision:**  
+To become a full-stack engineer focused on digital inclusion — building tools that empower people in health, education, and beyond.
+
+---
+
+## 💼 My Current Project
+
+🚧 <strong>Working On:</strong> <em><b>EQUIHEALTH</b></em>  
+A healthtech web app helping users get medical care right from the comfort of their homes.
+
+- 🏠 Home-based healthcare
+- 📱 Mobile-first, responsive design
+- 🔐 Private doctor-patient chats
+- ⚙️ Built with React, Firebase, Tailwind
+
+---
+
+## 🛠️ Tech Stack
+
+```html
+💻 Languages: HTML, CSS, JavaScript  
+⚙️ Frameworks & Libraries: React, Tailwind, Bootstrap  
+🧪 Tools: Git, GitHub, VS Code, Chrome DevTools  
+🌍 Deployment: Netlify, GitHub Pages  
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" /> </p>
+✨ Let’s Connect
+🌐 LinkedIn: James Ambala
+
+📫 Email: ambalajames 729@gmail.com 
