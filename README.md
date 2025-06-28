@@ -1,6 +1,6 @@
-# james-1# Hi there, I'm [Your Name]! 👋
+# james-1# Hi there, I'm [JMAES AMBALA]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://photos.app.goo.gl/sPPGi7jN7RyRKrmy6)
 
 ## About Me 🚀
 
@@ -33,8 +33,8 @@ I'm a passionate **[front end developer / Developer Role]** with experience in *
 
 ## Get in Touch 📬
 
-- **[james ambala]**(your_website_or_blog_link)
-- **[www.linkedin.com/in/james-ambala-a197a7365]**(your_linkedin_profile_link)
+- **[james ambala]**
+- **[www.linkedin.com/in/james-ambala-a197a7365]**
 
 
 
